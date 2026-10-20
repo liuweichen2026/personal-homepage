@@ -21,4 +21,3 @@
 
 - GitHub Pages：免费、不限流量、免服务器与域名；强制 HTTPS。
 - 发布来源：`main` 分支 / 仓库根目录（Settings → Pages → Build and deployment）。
-- 换绑自定义域名时在 Pages 里填 Custom domain，并在域名服务商处添加 CNAME 记录，不要删除仓库根目录的 `CNAME` 文件（如有）。
